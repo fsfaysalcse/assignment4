@@ -1,6 +1,6 @@
 
-class Student {
-    String name;
+public class Student {
+    private String name;
 
     Student(String name) {
         this.name = name;
